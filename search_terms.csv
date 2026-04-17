@@ -1,0 +1,57 @@
+,Search This Exact Phrase,OEM,Priority,Notes
+0,FANUC robot,FANUC,HIGH,Main catch-all — covers most FANUC listings
+1,UR10 robot,Universal Robots,HIGH,Larger cobot
+2,UR5 robot,Universal Robots,HIGH,Most popular cobot model
+3,Universal Robots UR,Universal Robots,HIGH,Main catch-all for UR cobots
+4,Motoman HP20D,Yaskawa,HIGH,Very common medium robot
+5,Motoman robot,Yaskawa,HIGH,Yaskawa's robot brand name
+6,Yaskawa robot,Yaskawa,HIGH,Main catch-all
+7,KUKA KR 16,KUKA,HIGH,Medium payload workhorse
+8,KUKA KR 210,KUKA,HIGH,"Heavy payload, very common in automotive"
+9,KUKA robot arm,KUKA,HIGH,Main catch-all for KUKA
+10,ABB IRB 4600,ABB,HIGH,Versatile medium-large
+11,ABB IRB 2600,ABB,HIGH,"Medium payload, widely used"
+12,ABB IRB 6700,ABB,HIGH,"Large workhorse, very common"
+13,KUKA KR 150,KUKA,HIGH,"Medium-large, common used"
+14,FANUC M-10iA,FANUC,HIGH,Medium payload workhorse
+15,FANUC R-2000iA,FANUC,HIGH,"Older large robot, very common"
+16,FANUC M-710iC,FANUC,HIGH,"Versatile medium-large, very common used"
+17,FANUC R-2000iC,FANUC,HIGH,Large palletizing robot
+18,FANUC M-20iD,FANUC,HIGH,Newer version of M-20
+19,ABB robot arm,ABB,HIGH,Main catch-all for ABB
+20,FANUC LR Mate,FANUC,HIGH,"Small tabletop robots, high volume used"
+21,FANUC M-20iA,FANUC,HIGH,Most common medium robot
+22,Denso robot arm,Denso,MEDIUM,"Compact robots, electronics/automotive"
+23,UR3 robot,Universal Robots,MEDIUM,Small tabletop cobot
+24,Kawasaki robot arm,Kawasaki,MEDIUM,Main catch-all
+25,UR5e robot,Universal Robots,MEDIUM,"E-series, newer"
+26,Mitsubishi robot arm,Mitsubishi,MEDIUM,SCARA and articulated robots
+27,Yaskawa DX200,Yaskawa,MEDIUM,Controller — catches controller listings
+28,Motoman MA1440,Yaskawa,MEDIUM,Welding robot
+29,UR10e robot,Universal Robots,MEDIUM,"E-series, newer"
+30,Kawasaki RS006L,Kawasaki,MEDIUM,"Small-medium, common"
+31,Epson robot SCARA,Epson,MEDIUM,SCARA robots for electronics/assembly
+32,KUKA KR 360,KUKA,MEDIUM,Very large payload
+33,KUKA KR 6,KUKA,MEDIUM,Small payload
+34,FANUC M-900iA,FANUC,MEDIUM,Very large payload
+35,FANUC M-900iB,FANUC,MEDIUM,"Very large payload, newer"
+36,ABB IRB 120,ABB,MEDIUM,Small tabletop
+37,ABB IRB 6640,ABB,MEDIUM,"Older large robot, still common used"
+38,ABB IRB 1200,ABB,MEDIUM,Compact 6-axis
+39,FANUC ARC Mate,FANUC,MEDIUM,Welding robots
+40,FANUC R-30iB,FANUC,MEDIUM,Controller — catches listings titled by controller
+41,Motoman MH50,Yaskawa,MEDIUM,Medium-large payload
+42,Mitsubishi RV-7FL,Mitsubishi,LOW,Medium articulated
+43,Epson T6 robot,Epson,LOW,6-axis compact
+44,Denso VS-6577,Denso,LOW,Common 6-axis model
+45,Staubli robot arm,Staubli,LOW,"Swiss precision robots, cleanroom"
+46,Staubli TX60,Staubli,LOW,Common 6-axis model
+47,KUKA KR C4,KUKA,LOW,Controller — catches listings titled by controller
+48,Kawasaki RS010L,Kawasaki,LOW,Medium payload
+49,Kawasaki ZD130,Kawasaki,LOW,Palletizing robot
+50,Motoman GP25,Yaskawa,LOW,Newer general purpose
+51,Comau robot arm,Comau,LOW,"Italian, common in automotive"
+52,ABB IRC5 controller,ABB,LOW,Controller — catches listings titled by controller
+53,FANUC CR-7iA,FANUC,LOW,Collaborative robot
+54,UR16e robot,Universal Robots,LOW,Heavy-duty cobot
+55,Nachi robot arm,Nachi,LOW,"Japanese, welding and material handling"
