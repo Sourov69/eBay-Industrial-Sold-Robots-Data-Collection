@@ -40,7 +40,7 @@ def feed_html_get_data(html):
     for product_html in product_lists:
         all_product_details.append(extract_product_info(product_html))
 
-    return {"Faunc Robot" : all_product_details}
+    return {"data" : all_product_details}
 
 #------------------ Playwright Start----------------------
 def Playwright_run_for_this(search_item):
