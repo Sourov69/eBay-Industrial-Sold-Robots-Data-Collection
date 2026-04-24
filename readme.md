@@ -1,5 +1,9 @@
 # Web Scraping : Scraping product data from e-Bay Website
 
+<p align="center">
+  <img src="_media/Project Overview.png" width="700"/>
+</p>
+
 ### This is one of my advanced web-scraping projects, which required a lot of time, critical thinking, and optimized Python browser automation code to perform human-like browsing. It involved handling bans, rendering JavaScript content, parsing messy HTML, and storing data in JSON format. I then loaded the JSON data back into Python to apply transformations for cleaning. After that, I appended all scattered data into a single pandas DataFrame, created additional columns from messy text fields, assigned proper data types to each column, and finally saved everything in a clean Excel format.
 
 
