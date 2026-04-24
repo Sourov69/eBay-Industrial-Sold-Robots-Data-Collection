@@ -12,32 +12,75 @@
 * `Excel` - Saving the final cleaned data
 
 
-## **Project Source** : I got  this project from Upwork 
-![Upwork Job Description](_media\01_upwork_job_description.png)
+## **Project Source**  
+I got this project from Upwork.  
 
+<p align="center">
+  <img src="_media/01_upwork_job_description.png" width="700"/>
+</p>
 
-## **Data Source** : Data was available in the website like this
-![Website Data Representation](_media\website_data_representation.png)
+---
 
-## **Data Container** : Data inside row HTML was look like this 
-![websit HTML Display](_media\website_html_display.png)
+## **Data Source**  
+The data was available on the website in the following format:  
 
+<p align="center">
+  <img src="_media/website_data_representation.png" width="700"/>
+</p>
 
-## **Json Formated Data** : After parsing HTML using Beautifulsoup
-![Json Formated Extracted Data](_media/json_formated_extracted_data.png)
+---
 
-## **Data Cleaning & Transformation** : I used Python, Regex & Pandas to clean it
-![Json Formated Extracted Data](_media\data_cleaning_and_transformation.png)
+## **Data Container**  
+The data inside each HTML row looked like this:  
 
-## **Final Dataset** : After applying transformation and cleaning
-![Clean Pandas Dataframe](_media\clean_pandas_data.png)
+<p align="center">
+  <img src="_media/website_html_display.png" width="700"/>
+</p>
 
-## **Final Output** : Deliverable clean excel data
-![Clean Pandas Dataframe](_media\deliverable_clean_excel_data.png)
+---
 
+## **JSON Formatted Data**  
+After parsing the HTML using BeautifulSoup:  
 
-## Thanks for exploring My Project
+<p align="center">
+  <img src="_media/json_formated_extracted_data.png" width="700"/>
+</p>
 
----- Success never have any shortcut --------
------ Hard Work and Consitency is the Key--------
------ Passion and Love in work leands toward sucess---------
+---
+
+## **Data Cleaning & Transformation**  
+I used Python, Regex, and Pandas to clean and transform the data:  
+
+<p align="center">
+  <img src="_media/data_cleaning_and_transformation.png" width="700"/>
+</p>
+
+---
+
+## **Final Dataset**  
+After applying all transformations and cleaning:  
+
+<p align="center">
+  <img src="_media/clean_pandas_data.png" width="700"/>
+</p>
+
+---
+
+## **Final Output**  
+Deliverable: clean Excel data  
+
+<p align="center">
+  <img src="_media/deliverable_clean_excel_data.png" width="700"/>
+</p>
+
+---
+
+## **Thanks for Exploring My Project☺️**
+
+<div align="center">
+
+**Success never has any shortcuts**  
+**Hard work and consistency are the keys**  
+**Passion and love for your work leads to success**
+
+</div>
